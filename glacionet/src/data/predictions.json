@@ -1,0 +1,22 @@
+{
+  "glof_risk": 0.78,
+  "water_security_index": 0.62,
+  "temp_anomaly": 2.3,
+  "glacier_area_current": 12.4,
+  "ai_summary": "GlacioNet AI predicts a 14% increase in meltwater flow over the next 30 days due to elevated temperatures.",
+  "meltwater_forecast": [
+    {"day": 1, "flow": 45.2},
+    {"day": 5, "flow": 58.9},
+    {"day": 10, "flow": 73.5},
+    {"day": 15, "flow": 85.4},
+    {"day": 20, "flow": 92.4},
+    {"day": 25, "flow": 86.4},
+    {"day": 30, "flow": 73.8}
+  ],
+  "glacier_area_history": [
+    {"month": "Jan", "area": 13.2},
+    {"month": "Apr", "area": 12.9},
+    {"month": "Jul", "area": 12.5},
+    {"month": "Dec", "area": 12.4}
+  ]
+}
